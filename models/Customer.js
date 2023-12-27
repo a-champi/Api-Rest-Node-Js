@@ -1,6 +1,6 @@
 import mongoose from "mongoose";
 
-//defining  Customer Schema
+//create a schema:   Customer Schema
 const customerSchema = new mongoose.Schema(
   {
     firstName: {
@@ -26,5 +26,5 @@ const customerSchema = new mongoose.Schema(
 );
 
 // create a collection Customer-Model
-// defining a model customer
+// create a model customer
 export const customerModel = mongoose.model("customer", customerSchema);
