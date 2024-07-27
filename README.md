@@ -1,7 +1,9 @@
-# Api-Rest-Node-Js
+# Api-Rest-Node-Js: User
+
 ### Aufgabe: Erstellung einer REST-API mit Express, Mongoose und Dotenv
 
 #### Ziel:
+
 Das Ziel dieser Aufgabe besteht darin, eine RESTful API mithilfe von Express.js zu erstellen, um auf eine MongoDB-Datenbank mit Mongoose zuzugreifen. Zudem soll Dotenv verwendet werden, um Umgebungsvariablen zu verwalten.
 
 #### Anforderungen:
@@ -15,6 +17,7 @@ Das Ziel dieser Aufgabe besteht darin, eine RESTful API mithilfe von Express.js 
 7. Dokumentiere die API-Endpunkte und ihre Funktionalitäten.
 
 #### Zusätzliche Hinweise:
+
 - Erstelle eine klare und übersichtliche Verzeichnisstruktur für das Projekt.
 - Verwende geeignete RESTful-Praktiken bei der Gestaltung der Routen.
 - Achte auf die Sicherheit und schütze sensible Daten.
@@ -22,7 +25,9 @@ Das Ziel dieser Aufgabe besteht darin, eine RESTful API mithilfe von Express.js 
 - Stelle sicher, dass die Umgebungskonfiguration ordnungsgemäß funktioniert, indem du sensible Informationen in der .env-Datei speicherst und sie in deinem Code abrufst.
 
 #### Bewertungskriterien:
+
 Die Aufgabe wird anhand folgender Kriterien bewertet:
+
 - Vollständige Implementierung der CRUD-Operationen
 - Verwendung von Express, Mongoose und Dotenv gemäß den Anforderungen
 - Angemessene Validierung und Fehlerbehandlung
